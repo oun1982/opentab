@@ -20,7 +20,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.opentab.AutoCloseChromeTab</mainClass>
+                  <mainClass>com.opentab.AutoCloseChromeTabAddAppdata</mainClass>
                 </transformer>
               </transformers>
             </configuration>
